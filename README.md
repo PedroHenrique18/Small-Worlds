@@ -76,10 +76,11 @@ Implementar a tabela no formato markdown juntamente com a interpretação dos
 resultados cuja o texto deverá ter entre 500 a 1000 palavras. A tabela e o texto deverá
 estar em um arquivo readme
 
-| Rede                               | Qtd vértices | Qtd arestas | Degree Assortativity Coefficient | Qtd Componentes Conectados | Tamanho do Comp. Gigante (GCC) | Coeficiente de Clustering Médio (Avg Clustering) |
-|------------------------------------|--------------|------------|----------------------------------|-----------------------------|---------------------------------|-------------------------------------------------|
-| Wikipedia Vote Network             | 7115         | 103689     | -0.2749                          | 1099                        | 7066 (0.993)                    | 0.1409                                          |
-| Social Circles: Twitter            | 81306        | 1768149    | 0.0739                           | 1                           | 81306 (1.000)                  | 0.5653                                          |
-| Social Circles: Facebook           | 4039         | 88234      | 0.1349                           | 1                           | 4039 (1.000)                   | 0.6055                                          |
-| Slashdot Social Network (Nov 2008)  | 77360        | 905468     | 0.0922                           | 1                           | 77360 (1.000)                  | 0.0555                                          |
-| General Relativity and Quantum Cosmology Collaboration Network | 5242  | 14496      | 0.0812                           | 11                         | 4158 (0.793)                   | 0.5296                                          |
+| Rede                              | Qtd Vértices | Qtd Arestas | Degree Assortativity Coefficient | Qtd Componentes Conectados | Tamanho do Comp. Gigante (GCC) | Coeficiente de Clustering Avg_Clustering |
+|-----------------------------------|--------------|-------------|---------------------------------|----------------------------|------------------------------|----------------------------------------|
+| Wikipedia Vote Network            | 7115         | 103689      | -                               | 2                          | 7066 (0.993)                  | 0.1409                                 |
+| Social Circles: Twitter           | 81306        | 1768149     | -                               | 2                          | 81306 (1.000)                | 0.5653                                 |
+| Social Circles: Facebook          | 4039         | 88234       | -                               | 2                          | 4039 (1.000)                 | 0.6055                                 |
+| Slashdot Social Network (Nov 2008) | 77360        | 905468      | -                               | 2                          | 77360 (1.000)                | 0.0555                                 |
+| General Relativity and Quantum Cosmology Collaboration Network | 5242 | 14496 | - | 2 | 4158 (0.793) | 0.5296 |
+
