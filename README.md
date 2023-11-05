@@ -33,28 +33,38 @@ redes?
 
   <img src="https://github.com/PedroHenrique18/Small-Worlds/blob/main/graph/facebook_combined.png">
 
-  ## A medida que o grau do nó aumenta, o grau médio do vizinho também tende a aumentar,assortatividade tende a zero.
+  ## A rede exibe uma ampla diversidade de conexões, evidenciando uma inclinação em favor de estabelecer ligações entre nós que apresentam menor semelhança entre si, o que denota uma tendência dissortativa. Isso implica que a rede tende a preferir conexões entre nós que possuem características ou propriedades mais distintas ou heterogêneas.
   
 - ## Rede Twitter
  
   <img src="https://github.com/PedroHenrique18/Small-Worlds/blob/main/graph/twitter_combined.png">
 
-  ## A rede exibe uma ampla variedade de conexões, demonstrando uma preferência por conexões entre nós que são menos semelhantes entre si, mostrando uma tendência dissortativa.
+  ## A rede revela uma vasta diversidade de conexões, claramente evidenciando uma predileção por estabelecer ligações entre nós que ostentam menor grau de semelhança entre si, o que aponta de maneira notável para uma tendência dissortativa. Isso significa que a rede tende a favorecer a formação de conexões entre nós que exibem características, atributos ou propriedades mais discrepantes ou heterogêneas.
 
 - ## Rede  Wikipedia vote network
 
   <img src="https://github.com/PedroHenrique18/Small-Worlds/blob/main/graph/Wiki-Vote.png">
 
-  ## Um gráfico decrescente, com um coeficiente de assortatividade negativo, indica que nós com graus mais baixos tendem a se conectar a nós com graus mais altos. Em termos simples, isso descreve uma rede dissortativa.
+  ## Um gráfico que exibe uma tendência decrescente, com um coeficiente de assortatividade negativo, sugere que os nós com graus mais baixos têm uma propensão a se conectar com nós que possuem graus mais elevados. De forma mais simplificada, esse padrão de conexões pode ser descrito como característico de uma rede dissortativa, onde os nós menos conectados estabelecem ligações preferencialmente com os nós mais fortemente conectados.
 
 - ## Rede  Slashdot social network, November 2008
 
   <img src="https://github.com/PedroHenrique18/Small-Worlds/blob/main/graph/Slashdot0811.png">
 
- ## Gráfico decrescente, significando coeficiente de assortatividade negativo, ou seja, nós de grau mais baixo se conectam com nós de grau mais alto. Em resumo, é uma rede dissortativa
+ ## Um gráfico que demonstra uma tendência decrescente, representada por um coeficiente de assortatividade negativo, sinaliza que os nós com graus mais baixos têm uma inclinação a estabelecer conexões com nós que ostentam graus mais elevados. Resumindo, esse padrão de conexões pode ser caracterizado como pertencente a uma rede dissortativa, onde os nós menos conectados demonstram uma preferência por ligar-se aos nós mais fortemente conectados na rede.
 
 - ## Rede  General Relativity and Quantum Cosmology collaboration network
 
   <img src="https://github.com/PedroHenrique18/Small-Worlds/blob/main/graph/CA-GrQc.png">
 
-  ## Um gráfico ascendente os nós de grau mais baixo tendem a se conectar com nós de grau mais baixo e os nós de grau mais alto tendem a se conectar com nós de grau mais alto. Isso é característico de uma rede assortativa
+  ## Um gráfico com uma tendência ascendente indica que os nós de grau mais baixo têm uma propensão a se conectar com outros nós de grau mais baixo, enquanto os nós de grau mais alto tendem a estabelecer conexões com nós de grau mais alto. Essa configuração de conexões é claramente característica de uma rede assortativa, na qual os nós demonstram uma preferência por se ligar a outros nós com graus de conexão semelhantes. Em resumo, em uma rede assortativa, os nós com graus semelhantes tendem a se agrupar e formar conexões mais fortes entre si.
+
+# Conclusão 
+
+Em síntese, a análise do coeficiente de assortatividade em redes complexas fornece uma valiosa ferramenta para desvendar os padrões de conexão que definem essas estruturas intrincadas. O coeficiente de assortatividade revela se uma rede é caracterizada por conexões preferenciais entre nós semelhantes (assortativa) ou se há uma tendência à conexão entre nós mais diferentes (dissortativa), ou mesmo se a rede é relativamente neutra em relação a esse aspecto.
+
+As implicações desses padrões são profundas e se estendem a uma variedade de campos, desde a sociologia até a biologia, passando pela informática. Uma rede assortativa, onde nós com características similares se conectam, pode criar clusters de nós mais densamente conectados, facilitando a disseminação de informações e influências dentro desses grupos. Além disso, redes assortativas podem ser mais resilientes a falhas, já que a redundância é frequentemente incorporada através das conexões entre nós semelhantes.
+
+Por outro lado, em uma rede dissortativa, a conexão entre nós com características diferentes pode criar uma dinâmica onde os recursos ou informações fluem de maneira mais equitativa. No entanto, isso também pode tornar a rede mais vulnerável a pontos críticos, uma vez que os nós com graus mais altos, frequentemente interconectados, podem exercer um grande impacto.
+
+A análise de redes complexas é uma disciplina em crescimento que oferece insights profundos sobre sistemas interconectados. O coeficiente de assortatividade é uma das métricas fundamentais para compreender as redes, e sua aplicação abrange diversos campos, da análise de redes sociais à biologia de sistemas. Portanto, a compreensão da natureza assortativa ou dissortativa de uma rede é crucial para desvendar suas propriedades intrínsecas e sua dinâmica, contribuindo para avanços significativos em diversas áreas do conhecimento.
