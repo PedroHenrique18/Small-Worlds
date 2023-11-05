@@ -51,7 +51,7 @@ redes?
 
   <img src="https://github.com/PedroHenrique18/Small-Worlds/blob/main/graph/Slashdot0811.png">
 
- ## Um gráfico que demonstra uma tendência decrescente, representada por um coeficiente de assortatividade negativo, sinaliza que os nós com graus mais baixos têm uma inclinação a estabelecer conexões com nós que ostentam graus mais elevados. Resumindo, esse padrão de conexões pode ser caracterizado como pertencente a uma rede dissortativa, onde os nós menos conectados demonstram uma preferência por ligar-se aos nós mais fortemente conectados na rede.
+ ## Um gráfico que demonstra uma tendência decrescente, representada por um coeficiente de assortatividade negativo, sinaliza que os nós com graus mais baixos têm uma     inclinação a estabelecer conexões com nós que ostentam graus mais elevados. Resumindo, esse padrão de conexões pode ser caracterizado como pertencente a uma rede dissortativa, onde os nós menos conectados demonstram uma preferência por ligar-se aos nós mais fortemente conectados na rede.
 
 - ## Rede  General Relativity and Quantum Cosmology collaboration network
 
