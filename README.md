@@ -144,3 +144,5 @@ A rede de Colaboração em Relatividade Geral e Cosmologia Quântica é mais uma
 # Conclusão 
 
 Em resumo, a tabela fornece informações essenciais sobre a estrutura e dinâmica de diferentes redes sociais e colaborativas. Cada rede possui características únicas, como o tamanho, a tendência para formar grupos densamente conectados (coeficiente de clustering), e a presença de componentes conectados. A interpretação dos resultados depende do contexto e dos objetivos da análise. Por exemplo, redes com coeficientes de clustering mais altos tendem a ter uma estrutura de comunidade mais forte, enquanto redes com baixos coeficientes de clustering podem ser mais dispersas. Além disso, a presença de componentes conectados separados pode indicar divisões ou isolamento em uma rede, o que pode ser relevante para a análise de sua conectividade e estrutura.
+
+# [ Link para o video de Explicação] (https://www.loom.com/share/f00fad7d62f641bf870a374feff75bb9)
